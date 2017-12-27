@@ -1,4 +1,4 @@
-package com.example.demo.leetcode.leetcode2;
+package com.leng.leetcode.leetcode.code.leetcode2;
 
 /**
  * @author leng
